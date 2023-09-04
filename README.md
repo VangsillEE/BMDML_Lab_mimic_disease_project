@@ -2,7 +2,7 @@
 
 >수원대 BMDML 인공지능 연구소에서 진행된 mimic 의료 데이터 분석
 
-about mimicdata : [링크](https://baeseongsu.github.io/posts/mimiciii/)
+about mimicdata : [LINK](https://baeseongsu.github.io/posts/mimiciii/)
 ---
 
 ### 목적 : 다중 parameter를 이용하여 mimic데이터를 filter하는 프로그램 개발
